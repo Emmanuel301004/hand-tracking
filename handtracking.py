@@ -75,7 +75,7 @@ def main():
                 break
 
     except KeyboardInterrupt:
-        print("\n🛑 Stopped by user.")
+        print("\n Stopped by master emmanuel.")
     finally:
         cap.release()
         cv2.destroyAllWindows()
